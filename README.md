@@ -1,12 +1,14 @@
-maintainer-onboarding
+incorporation de los mantenedores
 =====================
 
-This lesson is for instructors that are to become maintainers of [Software Carpentry][swc-site] or [Data Carpentry][dc-site] lessons.
-It will familiarize them with our process, the social aspects of dealing with contributors, and the various teams they will be in contact with in their new role.
+Esta lección es para instructores que se convertirán en mantenedores de las lecciones de [Software Carpentry][swc-site] o [Data Carpentry][dc-site] lessons.
+Los familiarizará con nuestro proceso, los aspectos sociales de tratar con los contribuyentes y los diversos equipos con los que estarán en contacto en su nuevo rol.
 
 **Maintainer(s):**
 
 * [Erin Becker][becker_erin]
+* Rayna Harris ?
+* Ivan Gonzalez ?
 
 [swc-site]: http://software-carpentry.org
 [dc-site]: http://datacarpentry.org
